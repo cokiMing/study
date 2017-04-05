@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:14:40:44 +0800] "GET / HTTP/1.1" 200 3161 http-bio-8080-exec-1 747
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:14:40:44 +0800] "GET /css/bootstrap.min.css HTTP/1.1" 200 106006 http-bio-8080-exec-2 15
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:14:40:44 +0800] "GET /js/jquery-1.8.2.min.js HTTP/1.1" 200 93436 http-bio-8080-exec-4 14
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:14:40:44 +0800] "GET /js/bootstrap.min.js HTTP/1.1" 200 28631 http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:14:40:44 +0800] "GET /css/bootstrap-responsive.min.css HTTP/1.1" 200 16840 http-bio-8080-exec-3 22
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:14:40:44 +0800] "GET /boostraptest/list?page=1&rows=5 HTTP/1.1" 404 949 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [28/Mar/2017:14:40:44 +0800] "GET /favicon.ico HTTP/1.1" 404 997 http-bio-8080-exec-9 18

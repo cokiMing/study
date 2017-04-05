@@ -1,0 +1,87 @@
+.table td {
+	text-align: center;
+	vertical-align: center;
+	color: white;
+	font-size: 16px;
+	height: 50px;
+	line-height: 50px;
+}
+.table td input{
+    margin-top:5px;
+	text-align:left;
+	vertical-align: center;
+	color: black;
+	font-size: 16px;
+	height: 30px;
+	line-height: 30px;
+}
+
+.table th {
+    height:30px;
+	text-align: center;
+	background-color: #646464;
+	color: white;
+	height: 40px;
+	line-height: 40px;
+	font-size: 20px;
+}
+.table{
+    border-color: #646464;
+}
+
+.pagination-ex {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.corner {
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    border-radius: 0 !important;
+}
+body {
+background-image:url(../img/batman.jpg); 
+background-repeat:repeat;
+background-position:center;
+}
+.no-part-border1 {
+  border-top: 1px solid transparent !important;
+}
+.no-part-border4 {
+  border-bottom: 1px solid transparent !important;
+}
+.no-part-border23 {
+  border-right: 1px solid transparent !important;
+  border-bottom: 1px solid transparent !important;
+}
+.no-part-border12 {
+  border-top: 1px solid transparent !important;
+  border-right: 1px solid transparent !important;
+}
+.no-part-border34 {
+  border-bottom: 1px solid transparent !important;
+  border-left: 1px solid transparent !important;
+}
+.no-part-border41 {
+  border-top: 1px solid transparent !important;
+  border-left: 1px solid transparent !important;
+}
+.no-part-border123 {
+  border-right: 1px solid transparent !important;
+  border-bottom: 1px solid transparent !important;
+  border-top: 1px solid transparent !important;
+}
+.no-part-border234 {
+  border-bottom: 1px solid transparent !important;
+  border-right: 1px solid transparent !important;
+  border-left: 1px solid transparent !important;
+}
+.no-part-border341 {
+  border-bottom: 1px solid transparent !important;
+  border-left: 1px solid transparent !important;
+  border-top: 1px solid transparent !important;
+}
+.no-part-border124 {
+  border-top: 1px solid transparent !important;
+  border-left: 1px solid transparent !important;
+  border-right: 1px solid transparent !important;
+}
